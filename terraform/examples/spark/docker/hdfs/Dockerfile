@@ -1,4 +1,4 @@
-FROM openjdk:7
+FROM openjdk:25
 
 ENV HADOOP_VERSION 2.7.3
 
